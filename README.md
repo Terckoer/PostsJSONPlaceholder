@@ -1,5 +1,8 @@
 #To run my aplication you need to install somes dependencies
 
+
+If you have problems with the dependencys follow the next steps
+
 Step 1:
 You need to install the basic things for create a react native app (Expo & Node JS) in your PC and Expo in your Phone
 
